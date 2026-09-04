@@ -9,9 +9,8 @@
 
 ### About Me
 
-- 💻 Full-stack developer — comfortable across the stack from databases to UI
-- 🧠 Regular hackathon participant — I like building things under a deadline
-- 🔭 Currently exploring quantum computing & quantum information theory on the side
+I enjoy building tools that make everyday work faster and smarter like automation systems, AI-powered assistants and productivity apps that combine thoughtful design with solid backend logic. Right now, I'm focused on deepening my skills so that I can turn ideas into working products which people can actually use.
+
 
 ---
 ### Connect with me :
